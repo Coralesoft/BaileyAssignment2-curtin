@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1697969380 source:/home/colin/Documents/Bailey2/Baily2/fileHandler.c
+	<stdlib.h>
+	"fileHandler.h"
+
+1697969378 /home/colin/Documents/Bailey2/Baily2/fileHandler.h
+	<stdio.h>
+
+1698318385 source:/home/colin/Documents/Bailey2/Baily2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"fileHandler.h"
+	"game.h"
+	"terminal.h"
+	"carMovement.h"
+
+1698318147 /home/colin/Documents/Bailey2/Baily2/game.h
+	<stdio.h>
+
+1698054598 /home/colin/Documents/Bailey2/Baily2/terminal.h
+
+1698318520 source:/home/colin/Documents/Bailey2/Baily2/map.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1698315806 source:/home/colin/Documents/Bailey2/Baily2/player.c
+	"game.h"
+
+1698054598 source:/home/colin/Documents/Bailey2/Baily2/terminal.c
+	<stdio.h>
+	<termios.h>
+	"terminal.h"
+
+1698318296 source:/home/colin/Documents/Bailey2/Baily2/carMovement.c
+	<stdio.h>
+	<stdlib.h>
+	"carMovement.h"
+	"game.h"
+
+1698295156 /home/colin/Documents/Bailey2/Baily2/carMovement.h
+	"game.h"
+
